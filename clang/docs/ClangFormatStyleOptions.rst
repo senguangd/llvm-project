@@ -3420,9 +3420,9 @@ the configuration (without a prefix: ``Auto``).
 **SortIncludes** (``SortIncludesOptions``) :versionbadge:`clang-format 4`
   Controls if and how clang-format will sort ``#includes``.
   If ``Never``, includes are never sorted.
-  If ``CaseInsensitive``, includes are sorted in an ASCIIbetical or case
+  If ``CaseInsensitive``, includes are sorted in an alphabetical or case
   insensitive fashion.
-  If ``CaseSensitive``, includes are sorted in an alphabetical or case
+  If ``CaseSensitive``, includes are sorted in an ASCIIbetical or case
   sensitive fashion.
 
   Possible values:
